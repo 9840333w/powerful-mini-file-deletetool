@@ -1,0 +1,12 @@
+# Python 缓存与构建产物
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+# 运行时数据（注册表备份，含本机信息，不提交）
+backups/
+
+# 截图临时目录
+.screenshots/
